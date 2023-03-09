@@ -5,12 +5,7 @@
 </p>
 
 # Naming cheatsheet
-<<<<<<< HEAD
 # 999545
-=======
-# Hello World, my name is Farid
-
->>>>>>> branch2
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
