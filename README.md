@@ -7,6 +7,7 @@
 # Naming cheatsheet
 # Salam Aleykum
 ## My name is Farid
+### It means UNIQUE
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
