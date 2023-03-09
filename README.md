@@ -6,6 +6,7 @@
 
 # Naming cheatsheet
 # Salam Aleykum
+## My name is Farid
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
